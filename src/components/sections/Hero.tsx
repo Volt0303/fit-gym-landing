@@ -50,11 +50,11 @@ const Hero = () => {
         </div>
 
         {/* Scroll Indicator */}
-        <div className="absolute bottom-10 left-1/2 -translate-x-1/2 fade-in-up delay-600">
+        {/* <div className="absolute bottom-10 left-1/2 -translate-x-1/2 fade-in-up delay-600">
           <div className="w-6 h-10 border-2 border-white/50 rounded-full flex items-start justify-center p-2">
             <div className="w-1.5 h-3 bg-white/70 rounded-full animate-bounce" />
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );
